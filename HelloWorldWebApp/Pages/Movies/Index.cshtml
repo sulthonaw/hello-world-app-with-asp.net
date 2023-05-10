@@ -1,0 +1,36 @@
+﻿@page
+@model HelloWorldWebApp.Pages.Movies.IndexModel
+
+@{
+	ViewData["Title"] = "Index";
+}
+
+<h1>Movies</h1>
+
+<p>
+	<a asp-page="Create">Create New</a>
+</p>
+
+<div class="d-grid g-2">
+	<div class="row row-cols-4">
+		@foreach (var item in Model.Movie)
+		{
+			<div class="col">
+				<div class="card" style="width: 18rem;">
+					<div class="card-body">
+						<h5 class="card-title">@Html.DisplayFor(modelItem => item.Title)</h5>
+						<h6 class="card-subtitle mb-2 text-muted">@Html.DisplayFor(modelItem => item.ReleaseDate)</h6>
+						<p class="card-text">Genre: @Html.DisplayFor(modelItem => item.Genre)</p>
+						<h6 class="card-text text-end">$@Html.DisplayFor(modelItem => item.Price)</h6>
+						<div class="d-flex flex-row gx-3">
+							<a class="card-link" asp-page="./Edit" asp-route-id="@item.Id">Edit</a>
+							<a class="card-link" asp-page="./Details" asp-route-id="@item.Id">Details</a>
+							<a class="card-link" asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		}
+	</div>
+</div>
+
