@@ -1,251 +1,335 @@
 {
   "Files": [
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HelloWorldWebApp.bundle.scp.css",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HelloWorldWebApp.bundle.scp.css",
       "PackagePath": "staticwebassets\\HelloWorldWebApp.bundle.scp.css"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\css\\site.css",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\data\\data.json",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\css\\tailwind.css",
+      "PackagePath": "staticwebassets\\css\\tailwind.css"
+    },
+    {
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\data\\data.json",
       "PackagePath": "staticwebassets\\data\\data.json"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\favicon.ico",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\js\\site.js",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\js\\dist\\datepicker.js",
+      "PackagePath": "staticwebassets\\js\\dist\\datepicker.js"
+    },
+    {
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\js\\dist\\datepicker.js.map",
+      "PackagePath": "staticwebassets\\js\\dist\\datepicker.js.map"
+    },
+    {
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\js\\dist\\datepicker.min.js",
+      "PackagePath": "staticwebassets\\js\\dist\\datepicker.min.js"
+    },
+    {
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\js\\dist\\datepicker.turbo.js",
+      "PackagePath": "staticwebassets\\js\\dist\\datepicker.turbo.js"
+    },
+    {
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\js\\dist\\datepicker.turbo.js.map",
+      "PackagePath": "staticwebassets\\js\\dist\\datepicker.turbo.js.map"
+    },
+    {
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\js\\dist\\datepicker.turbo.min.js",
+      "PackagePath": "staticwebassets\\js\\dist\\datepicker.turbo.min.js"
+    },
+    {
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\js\\dist\\flowbite.css",
+      "PackagePath": "staticwebassets\\js\\dist\\flowbite.css"
+    },
+    {
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\js\\dist\\flowbite.js",
+      "PackagePath": "staticwebassets\\js\\dist\\flowbite.js"
+    },
+    {
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\js\\dist\\flowbite.js.map",
+      "PackagePath": "staticwebassets\\js\\dist\\flowbite.js.map"
+    },
+    {
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\js\\dist\\flowbite.min.css",
+      "PackagePath": "staticwebassets\\js\\dist\\flowbite.min.css"
+    },
+    {
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\js\\dist\\flowbite.min.js",
+      "PackagePath": "staticwebassets\\js\\dist\\flowbite.min.js"
+    },
+    {
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\js\\dist\\flowbite.min.js.map",
+      "PackagePath": "staticwebassets\\js\\dist\\flowbite.min.js.map"
+    },
+    {
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\js\\dist\\flowbite.phoenix.js",
+      "PackagePath": "staticwebassets\\js\\dist\\flowbite.phoenix.js"
+    },
+    {
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\js\\dist\\flowbite.phoenix.js.map",
+      "PackagePath": "staticwebassets\\js\\dist\\flowbite.phoenix.js.map"
+    },
+    {
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\js\\dist\\flowbite.phoenix.min.js",
+      "PackagePath": "staticwebassets\\js\\dist\\flowbite.phoenix.min.js"
+    },
+    {
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\js\\dist\\flowbite.phoenix.min.js.map",
+      "PackagePath": "staticwebassets\\js\\dist\\flowbite.phoenix.min.js.map"
+    },
+    {
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\js\\dist\\flowbite.turbo.js",
+      "PackagePath": "staticwebassets\\js\\dist\\flowbite.turbo.js"
+    },
+    {
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\js\\dist\\flowbite.turbo.js.map",
+      "PackagePath": "staticwebassets\\js\\dist\\flowbite.turbo.js.map"
+    },
+    {
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\js\\dist\\flowbite.turbo.min.js",
+      "PackagePath": "staticwebassets\\js\\dist\\flowbite.turbo.min.js"
+    },
+    {
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\js\\dist\\flowbite.turbo.min.js.map",
+      "PackagePath": "staticwebassets\\js\\dist\\flowbite.turbo.min.js.map"
+    },
+    {
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\dotnet\\HelloWorldWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\github\\hello-world-app-with-asp.net\\HelloWorldWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

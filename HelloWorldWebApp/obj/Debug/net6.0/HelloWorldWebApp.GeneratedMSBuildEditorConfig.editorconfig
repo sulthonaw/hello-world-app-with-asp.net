@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HelloWorldWebApp
 build_property.RootNamespace = HelloWorldWebApp
-build_property.ProjectDir = D:\dotnet\HelloWorldWebApp\
+build_property.ProjectDir = D:\github\hello-world-app-with-asp.net\HelloWorldWebApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\dotnet\HelloWorldWebApp
+build_property.MSBuildProjectDirectory = D:\github\hello-world-app-with-asp.net\HelloWorldWebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/dotnet/HelloWorldWebApp/Pages/Error.cshtml]
+[D:/github/hello-world-app-with-asp.net/HelloWorldWebApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotnet/HelloWorldWebApp/Pages/Index.cshtml]
+[D:/github/hello-world-app-with-asp.net/HelloWorldWebApp/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotnet/HelloWorldWebApp/Pages/Movies/Create.cshtml]
+[D:/github/hello-world-app-with-asp.net/HelloWorldWebApp/Pages/Movies/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotnet/HelloWorldWebApp/Pages/Movies/Delete.cshtml]
+[D:/github/hello-world-app-with-asp.net/HelloWorldWebApp/Pages/Movies/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotnet/HelloWorldWebApp/Pages/Movies/Details.cshtml]
+[D:/github/hello-world-app-with-asp.net/HelloWorldWebApp/Pages/Movies/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotnet/HelloWorldWebApp/Pages/Movies/Edit.cshtml]
+[D:/github/hello-world-app-with-asp.net/HelloWorldWebApp/Pages/Movies/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotnet/HelloWorldWebApp/Pages/Movies/Index.cshtml]
+[D:/github/hello-world-app-with-asp.net/HelloWorldWebApp/Pages/Movies/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotnet/HelloWorldWebApp/Pages/Privacy.cshtml]
+[D:/github/hello-world-app-with-asp.net/HelloWorldWebApp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotnet/HelloWorldWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/github/hello-world-app-with-asp.net/HelloWorldWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotnet/HelloWorldWebApp/Pages/_ViewImports.cshtml]
+[D:/github/hello-world-app-with-asp.net/HelloWorldWebApp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotnet/HelloWorldWebApp/Pages/_ViewStart.cshtml]
+[D:/github/hello-world-app-with-asp.net/HelloWorldWebApp/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotnet/HelloWorldWebApp/Pages/Shared/_Layout.cshtml]
+[D:/github/hello-world-app-with-asp.net/HelloWorldWebApp/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3zsxdqrtxf
